@@ -146,6 +146,8 @@
     <Content Include="packages.config" />
     <None Include="Properties\PublishProfiles\adaltodo - FTP.pubxml" />
     <None Include="Properties\PublishProfiles\adaltodo - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\ltraintodo - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\ltraintodo - Web Deploy.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

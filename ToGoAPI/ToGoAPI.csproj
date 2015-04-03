@@ -207,6 +207,8 @@
     <None Include="Properties\PublishProfiles\adaltogo - Web Deploy %285%29.pubxml" />
     <None Include="Properties\PublishProfiles\adaltogo - Web Deploy %286%29.pubxml" />
     <None Include="Properties\PublishProfiles\adaltogo - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\ltraintogo - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\ltraintogo - Web Deploy.pubxml" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

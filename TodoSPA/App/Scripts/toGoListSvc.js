@@ -2,7 +2,7 @@
 angular.module('todoApp')
 .factory('toGoListSvc', ['$http', function ($http) {
 
-    var apiEndpoint = "https://localhost:44327/";
+    var apiEndpoint = "https://ltraintogo.azurewebsites.net/";
 
     $http.defaults.useXDomain = true;
     delete $http.defaults.headers.common['X-Requested-With'];

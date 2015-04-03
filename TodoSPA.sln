@@ -1,9 +1,12 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.30723.0
+VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoSPA", "TodoSPA\TodoSPA.csproj", "{C177F6EE-E7DB-4FA3-96A2-72CB04A98F68}"
+	ProjectSection(ProjectDependencies) = postProject
+		{3EDC9C11-3569-4351-85CF-1A455C75D8AF} = {3EDC9C11-3569-4351-85CF-1A455C75D8AF}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToGoAPI", "ToGoAPI\ToGoAPI.csproj", "{3EDC9C11-3569-4351-85CF-1A455C75D8AF}"
 EndProject

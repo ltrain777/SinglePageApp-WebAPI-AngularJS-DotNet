@@ -21,7 +21,7 @@ angular.module('todoApp', ['ngRoute','AdalAngular'])
     var endpoints = {
 
         // Map the location of a request to an API to a the identifier of the associated resource
-        "https://localhost:44327": "https://ltrain777hotmail.onmicrosoft.com/ToGoAPI"
+        "https://ltraintogo.azurewebsites.net": "https://ltrain777hotmail.onmicrosoft.com/ToGoAPI"
     };
 
     adalProvider.init(
